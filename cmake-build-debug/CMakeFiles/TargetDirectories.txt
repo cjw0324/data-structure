@@ -1,0 +1,3 @@
+/Users/choijaewoo/재우/자료구조/과제2/test3/cmake-build-debug/CMakeFiles/test3.dir
+/Users/choijaewoo/재우/자료구조/과제2/test3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/choijaewoo/재우/자료구조/과제2/test3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
